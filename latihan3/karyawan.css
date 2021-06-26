@@ -1,0 +1,14 @@
+body{
+    background-image: url(putih.jpg);
+}
+input{
+    margin: 10px;  /* posisi kotak  */
+    padding: 10px; /* panjang kotak */
+    width: 350px;  /* lebar kotak */
+    background-color: gainsboro;
+}
+label{
+     margin : 10px; /* posisi tulisan */
+     width:auto;
+     font-size: 25px;
+}

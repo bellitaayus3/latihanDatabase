@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-image: url("alat.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+
+.contener{
+   margin: 100px;
+   padding: 0px;
+  
+}
+h1{
+    font-size: 50px;
+    padding-left: 650px;
+    padding-bottom: 20px;
+    
+}
+.biodata_pasien{
+    padding: 0px;
+    padding-left: 650px;
+    padding-bottom: 50px;
+    font-size: 25px;
+}
+
+h3{
+    padding: 0px;
+    margin-bottom: 20px;
+    
+}
